@@ -1,0 +1,14 @@
+C:\Users\Bextiyar\OneDrive\Masaüstü\TasksC#\Main\Main\bin\Debug\netcoreapp3.1\Main.exe
+C:\Users\Bextiyar\OneDrive\Masaüstü\TasksC#\Main\Main\bin\Debug\netcoreapp3.1\Main.deps.json
+C:\Users\Bextiyar\OneDrive\Masaüstü\TasksC#\Main\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.json
+C:\Users\Bextiyar\OneDrive\Masaüstü\TasksC#\Main\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.dev.json
+C:\Users\Bextiyar\OneDrive\Masaüstü\TasksC#\Main\Main\bin\Debug\netcoreapp3.1\Main.dll
+C:\Users\Bextiyar\OneDrive\Masaüstü\TasksC#\Main\Main\bin\Debug\netcoreapp3.1\Main.pdb
+C:\Users\Bextiyar\OneDrive\Masaüstü\TasksC#\Main\Main\obj\Debug\netcoreapp3.1\Main.csproj.AssemblyReference.cache
+C:\Users\Bextiyar\OneDrive\Masaüstü\TasksC#\Main\Main\obj\Debug\netcoreapp3.1\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bextiyar\OneDrive\Masaüstü\TasksC#\Main\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfoInputs.cache
+C:\Users\Bextiyar\OneDrive\Masaüstü\TasksC#\Main\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfo.cs
+C:\Users\Bextiyar\OneDrive\Masaüstü\TasksC#\Main\Main\obj\Debug\netcoreapp3.1\Main.csproj.CoreCompileInputs.cache
+C:\Users\Bextiyar\OneDrive\Masaüstü\TasksC#\Main\Main\obj\Debug\netcoreapp3.1\Main.dll
+C:\Users\Bextiyar\OneDrive\Masaüstü\TasksC#\Main\Main\obj\Debug\netcoreapp3.1\Main.pdb
+C:\Users\Bextiyar\OneDrive\Masaüstü\TasksC#\Main\Main\obj\Debug\netcoreapp3.1\Main.genruntimeconfig.cache
